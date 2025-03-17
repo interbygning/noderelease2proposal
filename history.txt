@@ -60,3 +60,4 @@
 2025-04-20 13:14:58 fix crash issue
 2025-01-25 10:11:42 enhance error reporting
 2025-01-01 08:18:49 update API endpoints
+2025-03-17 20:48:33 fix null pointer
