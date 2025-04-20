@@ -57,3 +57,4 @@
 2025-09-01 16:22:19 small refactor
 2025-04-28 20:00:57 fix crash issue
 2025-10-02 10:30:15 enhance logging
+2025-04-20 13:14:58 fix crash issue
